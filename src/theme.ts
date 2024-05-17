@@ -1,16 +1,16 @@
-import { createTheme, responsiveFontSizes } from '@mui/material/styles';
+import { createTheme, responsiveFontSizes } from '@mui/material';
 
 let theme = createTheme({
     palette: {
       primary: {
-        main: "#FFFFFF",
+        main: "#000000",
       },
       secondary: {
-        main: "#DC241A",
+        main: "#FE2E2E",
       },
     },
     typography: {
-        fontFamily: "Helvetica Neue"
+        fontFamily: "rotters"
     }
   });
 

@@ -1,6 +1,5 @@
 import { AppBar, MenuItem, Toolbar, styled } from "@mui/material"
 import theme from "../../theme"
-import { teal } from "@mui/material/colors"
 
 
 
